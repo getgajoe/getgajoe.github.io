@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 5 most frequently asked questions related to Google Analytics on Quora
-image: {{ site.baseurl }}/public/faq-ga-quora.png
+title: Google Analytics Popular FAQs
+img: {{ site.baseurl }}/public/faq-ga-quora.png
 ---
 
 ![alt text]({{ site.baseurl }}/public/faq-ga-quora.png "FAQ on Google Analytics")
 
-For those who are new to [Google Analytics](http://analytics.google.com), we explored [Quora](https://quora.com) and found following questions that have generated the most number of answeres from the Quora community. They are very informative and contain awesome links to tutorials and resources. Have a look.  
-
 ## Most popular FAQs related to Google Analytics on Quora
+
+For those who are new to [Google Analytics](http://analytics.google.com), we explored [Quora](https://quora.com) and found following questions that have generated the most number of answeres from the Quora community. They are very informative and contain awesome links to tutorials and resources. Have a look.  
 
 1. #### [What is Google Analytics and what it is used for?](https://www.quora.com/What-is-Google-Analytics-and-what-it-is-used-for)
 
