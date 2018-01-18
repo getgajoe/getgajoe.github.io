@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Google Analytics Popular FAQs
-img: {{ site.baseurl }}/public/faq-ga-quora.png
+title: "Google Analytics Popular FAQs"
+image: "/public/faq-ga-quora.png"
 ---
 
-![alt text]({{ site.baseurl }}/public/faq-ga-quora.png "FAQ on Google Analytics")
+![alt text](/public/faq-ga-quora.png "FAQ on Google Analytics")
 
 ## Most popular FAQs related to Google Analytics on Quora
 

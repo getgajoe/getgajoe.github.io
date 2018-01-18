@@ -9,10 +9,10 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
   <meta property="og:title" content="{{ page.title }} &middot; {{ site.title }}"/>
 
-  {% if page.title == "Home" %}
-    <meta property="og:image" content="https://gajoe.co/images/gajoe-sample-screen-new.png"/>  
+  {% if page.image %}
+    <meta property="og:image" content="{{page.image}}"/>
   {% else %}
-    <meta property="og:image" content="{{page.img}}"/>
+    <meta property="og:image" content="https://gajoe.co/images/gajoe-sample-screen-new.png"/>
   {% endif %}
 
   <title>
