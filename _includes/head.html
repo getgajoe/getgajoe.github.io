@@ -6,6 +6,15 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+  <meta property="og:title" content="{{ page.title }} &middot; {{ site.title }}"/>
+
+  {% if page.title == "Home" %}
+    <meta property="og:image" content="https://gajoe.co/images/gajoe-sample-screen-new.png"/>  
+  {% else %}
+    <meta property="og:image" content="{{page.image}}"/>  
+  {% endif %}
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
