@@ -9,7 +9,7 @@ title:               G.A. Joe
 tagline:             'Google Analytics Productivity Tool For Businesses'
 description:         'Most important metrics with context, target and alerts.'
 url:                 http://blog.gajoe.co
-baseurl:             ''
+baseurl:             http://blog.gajoe.co
 paginate:            5
 
 # About/contact
