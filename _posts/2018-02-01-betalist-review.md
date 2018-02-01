@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BetaList review  
+title: BetaList review
+image: "https://s3-us-west-2.amazonaws.com/gajoe/blog/gajoe-blog-betalist-review.png"
 ---
 
 ![alt text](https://s3-us-west-2.amazonaws.com/gajoe/blog/gajoe-blog-betalist-review.png "BetaList review for G.A. Joe")
