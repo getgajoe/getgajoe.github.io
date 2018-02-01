@@ -22,9 +22,9 @@ I submitted G.A. Joe on Betalist on 16th of January. I opted to pay US$ 129 to e
 
 _If you are interested to see these metrics live, please click [here](https://gajoe.co/app/share/#/ayft-i3eR-5JwF)_
 
-*Daily visits*
-
 ![alt test](https://s3-us-west-2.amazonaws.com/gajoe/blog/gajoe-blog-betalist-review-ctrs.png "Daily visit breakdown")
+
+*Daily visits*
 
 #### Here are the summary numbers
 
@@ -37,11 +37,11 @@ _If you are interested to see these metrics live, please click [here](https://ga
   </tr>
   <tr>
     <td>Amount paid: </td>
-    <td>*US$ 129*</td>
+    <td>US$ 129</td>
   </tr>
   <tr>
     <td>Cost Per Click: </td>
-    <td>*US$ 1.30*</td>
+    <td>US$ 1.30</td>
   </tr>
 </table>
 
@@ -54,7 +54,7 @@ _If you are interested to see these metrics live, please click [here](https://ga
 + I am withholding the exact signup numbers as they do not reflect directly on Betalist performance.
 + These results can vary from one startup to another.
 
-While, I have your attention, please check out [G.A. Joe](https://gajoe.co?utm_source=blog&utm_medium=betalist). We are still very early and looking for BETA users to provide valuable feedback. Also, you can continue to track Betalist performance for us live _[here.](https://gajoe.co/app/share/#/ayft-i3eR-5JwF)_
+While, I have your attention, please check out [G.A. Joe](https://gajoe.co?utm_source=blog&utm_medium=betalist). We are still very early and looking for BETA users to provide valuable feedback. You can also continue to track Betalist performance for us live _[here.](https://gajoe.co/app/share/#/ayft-i3eR-5JwF)_
 
 Cheers!
 

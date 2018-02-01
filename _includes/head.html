@@ -42,4 +42,17 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5B94GJV');</script>
   <!-- End Google Tag Manager -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112094598-2"></script>
+  <script>
+    if (typeof document.location.hostname != 'undefined' && document.location.hostname) {
+        var hostname = document.location.hostname;
+        if (hostname != 'localhost' && hostname != '127.0.0.1') {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-112094598-2');
+        }
+    }
+  </script>  
 </head>
